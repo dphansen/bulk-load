@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="020_MinimalLogged">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="SQL2014DEMO01\SQLDEMO01:SQL2014DEMO01\Dave">
+          <Created>2014-08-27T17:33:04.4510263+02:00</Created>
+          <Type>SQL</Type>
+          <Server>SQL2014DEMO01\SQLDEMO01</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>AdventureWorksDW2012</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="010_FullyLoggedInserts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SQL2014DEMO01\SQLDEMO01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SQL2014DEMO01\SQLDEMO01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>010_FullyLoggedInserts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="020_MinimalLoggedInserts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SQL2014DEMO01\SQLDEMO01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SQL2014DEMO01\SQLDEMO01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>020_MinimalLoggedInserts.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

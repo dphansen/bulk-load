@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "010_HowToBulkLoad", "010_HowToBulkLoad\010_HowToBulkLoad.ssmssqlproj", "{713709C9-8ADD-4DD1-B002-07ABAFC187F9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "020_MinimalLogged", "020_MinimalLogged\020_MinimalLogged.ssmssqlproj", "{06A69739-BCA7-44D6-A1BF-F381D8BDB351}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "000_DatabaseSetup", "000_DatabaseSetup\000_DatabaseSetup.ssmssqlproj", "{769BBEEB-AD32-4BBE-A514-A49E8F2EE993}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "030_Indexes", "030_Indexes\030_Indexes.ssmssqlproj", "{DCAF02E4-3308-4315-AB02-B8B2D2D524E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713709C9-8ADD-4DD1-B002-07ABAFC187F9}.Default|Default.ActiveCfg = Default
+		{06A69739-BCA7-44D6-A1BF-F381D8BDB351}.Default|Default.ActiveCfg = Default
+		{769BBEEB-AD32-4BBE-A514-A49E8F2EE993}.Default|Default.ActiveCfg = Default
+		{DCAF02E4-3308-4315-AB02-B8B2D2D524E8}.Default|Default.ActiveCfg = Default
+		{656FD2FA-A9AC-4E03-A42F-02B39A7F2188}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
